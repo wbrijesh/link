@@ -9,4 +9,5 @@ dotenvy = "0.15.7"
 r2d2 = "0.8.10"
 redis = "0.25.3"
 diesel = { version = "2", features = ["sqlite", "r2d2", "uuid"] }
+serde = "1.0.203"
 

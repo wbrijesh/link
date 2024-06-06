@@ -1,6 +1,7 @@
 use actix_web::{web, App, HttpResponse, HttpServer, Responder};
 
 mod internal;
+mod schema;
 mod utils;
 
 use internal::db::initialize_db_pool;

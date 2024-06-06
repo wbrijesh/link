@@ -737,6 +737,7 @@ dependencies = [
  "dotenvy",
  "r2d2",
  "redis",
+ "serde",
 ]
 
 [[package]]
